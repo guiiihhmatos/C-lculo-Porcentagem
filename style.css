@@ -1,0 +1,76 @@
+h1{
+    text-align: center;
+    font: italic 30pt arial;
+    color: white;
+    margin-bottom: 05ex;
+}
+
+section#sect{
+    border-radius: 10px;
+   padding: 15px;
+   width: 1000px;
+    background: white;
+    margin: auto;
+    margin-top: -100px;
+   
+}
+section#sec{
+    border-radius: 10px;
+    padding: 10px;
+    width: 200px;
+    margin-left: 100px;
+    margin: 150px;
+    margin-top: -50px;
+    text-align: center;
+}
+p#guilherme{
+    color: white;
+    
+}
+img#perfil{
+    border-radius: 300px;
+}
+
+body{
+    background: black;
+}
+
+p#one{
+    margin-bottom: 90px;
+    margin-top: 10px;
+}
+
+div#dados {
+    font: normal 20pt arial;
+    text-align: center;
+    margin: 20px;
+}
+div#res{
+    font: italic 15pt arial;
+    text-align: center;
+}
+input#txtnumero{
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+input#txtporce{
+
+border-radius:  20px;
+font-size: 20px;
+}
+
+input#calc{
+
+    border-radius: 15px;
+    color: white;
+    background:blue;
+    font-size: 15px;
+}
+
+p#two{
+    font: oblique 15pt arial;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}

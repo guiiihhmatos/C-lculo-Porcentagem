@@ -52,12 +52,14 @@ div#res{
 input#txtnumero{
     border-radius: 20px;
     font-size: 20px;
+    border: solid 4px black;
 }
 
 input#txtporce{
 
 border-radius:  20px;
 font-size: 20px;
+    border: solid 4px black;
 }
 
 input#calc{
